@@ -1,1 +1,1 @@
-# gostack2020-gobarber-web
+# GoStack Barber
